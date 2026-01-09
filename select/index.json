@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "イエロートイ",
+  "base_artist": "Aooo",
+  "createdAt": "2026-01-09T14:43:29.255330Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イエロートイ",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_イエロートイ_Aooo.txt"
+    }
+  ]
+}
